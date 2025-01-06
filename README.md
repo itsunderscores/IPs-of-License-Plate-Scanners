@@ -3,9 +3,9 @@ Full list of IPs that are License Plate Scanners.<br><br>
 
 This script is intended for educational purposes only. Use it responsibly and ensure compliance with all applicable laws and regulations regarding network scanning and data access in your jurisdiction. Unauthorized use of this script for malicious or illegal activities is strictly prohibited. The author assumes no liability for any misuse of this code.
 
-<br><br>
+<br>
 
-There are a total of <b>162</b> IPs for License Plate Scanners.<br><br>
+There are a total of <b>162</b> IPs for License Plate Scanners.<br>
 
 Format: <br>
 http://166.247.193.252:8080/cam1ir<br>
