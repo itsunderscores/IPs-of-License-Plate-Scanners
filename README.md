@@ -6,10 +6,11 @@ This script is intended for educational purposes only. Use it responsibly and en
 <br>
 
 There are a total of <b>162</b> IPs for License Plate Scanners.<br>
+https://github.com/itsunderscores/IPs-of-License-Plate-Scanners/blob/main/ips.txt<br>
 
 Format: <br>
 http://166.247.193.252:8080/cam1ir<br>
-http://166.247.193.252:8080/cam1color<br><br>
+http://166.247.193.252:8080/cam1color<br>
 
 You will need VLC Player to watch the streams. You can also use the following to view the Live Output:<br>
 <code>nc -v 166.247.193.252 5000</code>
