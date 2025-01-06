@@ -12,7 +12,9 @@ Format: <br>
 http://166.247.193.252:8080/cam1ir<br>
 http://166.247.193.252:8080/cam1color<br>
 
-You will need VLC Player to watch the streams. You can also use the following to view the Live Output:<br>
+You will need VLC Player to watch the streams.<br><br>
+
+You can also use the following to view the Live Output:<br>
 <code>nc -v 166.247.193.252 5000</code>
 
 <hr>
